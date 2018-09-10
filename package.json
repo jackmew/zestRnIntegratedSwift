@@ -1,0 +1,31 @@
+{
+  "name": "zestrnintegratedswift",
+  "version": "1.0.0",
+  "description": "React Native integrated Swift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackmew/zestRnIntegratedSwift.git"
+  },
+  "keywords": [
+    "react-native",
+    "swift"
+  ],
+  "author": "wonderfuljack123@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackmew/zestRnIntegratedSwift/issues"
+  },
+  "homepage": "https://github.com/jackmew/zestRnIntegratedSwift#readme",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-native": "0.53.5",
+    "lodash": "^4.17.4",
+    "mobx": "4.3.1",
+    "mobx-state-tree": "3.0.2"
+  }
+}
